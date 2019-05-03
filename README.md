@@ -1,3 +1,5 @@
+[![Echo JS](https://raw.githubusercontent.com/echojs/logos/master/echojs-256px.png)](https://www.echojs.com)
+
 ## Description
 
 A collection of Echo JS logos in vector and bitmap forms:
